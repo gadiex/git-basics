@@ -1,2 +1,2 @@
 Git Basics
-[ref: Lynda.com](lynda.com)
+[ref: Lynda.com](www.lynda.com)
